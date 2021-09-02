@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:background="@color/purple_200"
+    android:background="@color/white"
     android:layout_height="match_parent">
     <TextView
         android:layout_width="139dp"
@@ -9,7 +9,6 @@
         android:textColor="@color/white"
         android:textStyle="normal"
         android:background="#DE1717"
-        android:fontFamily="cursive"
         android:textSize="18sp"
         android:gravity="center"
         android:paddingEnd="18dp"
@@ -21,7 +20,6 @@
         android:textStyle="normal"
         android:background="#0E0481"
         android:textSize="18sp"
-        android:fontFamily="cursive"
         android:layout_alignParentEnd="true"
         android:gravity="center_vertical"
         android:paddingStart="60dp"
@@ -33,7 +31,6 @@
         android:layout_height="61dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="130dp"
-        android:fontFamily="cursive"
         android:background="#B4A311"
         android:paddingStart="30dp"
         android:paddingTop="13dp"
@@ -50,7 +47,6 @@
         android:textStyle="normal"
         android:layout_centerVertical="true"
         android:background="#920495"
-        android:fontFamily="cursive"
         android:textSize="18sp"
         android:gravity="center"
         android:paddingEnd="18dp"
@@ -60,7 +56,6 @@
         android:layout_height="45dp"
         android:textColor="@color/white"
         android:textStyle="normal"
-        android:fontFamily="cursive"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:background="#3F0D66"
